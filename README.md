@@ -7,7 +7,7 @@ Authentication is a Flutter-based project designed to provide a simple and secur
 ## Demo Video
 
 
-https://github.com/user-attachments/assets/4af50fc7-83e9-4a26-8289-1580f0e4c17a
+![Authedications](https://github.com/user-attachments/assets/9a1e71dc-c0cc-47f1-966e-15f1c1a7c6db)
 
 ## Features
 
@@ -15,6 +15,7 @@ https://github.com/user-attachments/assets/4af50fc7-83e9-4a26-8289-1580f0e4c17a
 - **Social Media Login**: Provides the option to log in with popular social media platforms (e.g., Google, Facebook).
 - **Secure Session Management**: Ensures user sessions are securely managed with token-based authentication.
 - **User Registration**: Allows new users to register with their email and password or through social media logins.
+
 - **Password Reset**: Users can easily reset their passwords if they forget them.
 - **Responsive UI**: A clean and user-friendly design that adapts to different screen sizes.
 
